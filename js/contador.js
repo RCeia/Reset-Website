@@ -1,5 +1,5 @@
 // AQUI: Alterado para Mar 4, 2026
-var deadline = new Date("Mar 4, 2026 23:59:59").getTime();
+var deadline = new Date("Mar 1, 2026 23:59:59").getTime();
 
 var x = setInterval(function() {
     var now = new Date().getTime();

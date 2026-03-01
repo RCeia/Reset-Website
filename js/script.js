@@ -205,7 +205,7 @@ const subTeamData = {
     marketing: {
         titulo: "Equipa de Marketing",
         membros: [
-            { nome: "Hugo Cristão", cargo: "Marketing", img: "img/equipa/Hugo_Cristão.png" },
+            { nome: "Hugo Cristão", cargo: "Marketing", img: "img/equipa/Hugo_Cristao.png" },
             { nome: "Maria Carolina", cargo: "Marketing", img: "img/equipa/Maria_Carolina.png" },
             { nome: "Ana Leonor", cargo: "Marketing", img: "img/equipa/Ana_Leonor.png" }
         ]
@@ -213,22 +213,27 @@ const subTeamData = {
     it: {
         titulo: "Equipa de IT",
         membros: [
-            { nome: "Paulo Vilar", cargo: "IT", img: "img/equipa/Paulo_Vilar.png" }
+            { nome: "Paulo Vilar", cargo: "IT", img: "img/equipa/Paulo_Vilar.png" },
+{ nome: "Gabriel Costeira", cargo: "IT", img: "img/equipa/Gabriel.png" },
+{ nome: "Andre_Silva", cargo: "IT", img: "img/equipa/Andre_Silva.png" }
         ]
     },
     cr: {
         titulo: "Equipa de CR",
         membros: [
-            { nome: "Maria Silva", cargo: "CR", img: "img/equipa/Maria_Silva.png" }
+            { nome: "Maria Silva", cargo: "CR", img: "img/equipa/Maria_Silva.png" },
+{ nome: "Alexandre Rodrigues", cargo: "CR", img: "img/equipa/Alexandre_Rodrigues.png" }
         ]
     },
     topic: {
         titulo: "Equipa de Topic",
         membros: [
-            { nome: "André Farinha", cargo: "Topic", img: "img/equipa/André_Farinha.png" },
-            { nome: "Tiago Gonçalves", cargo: "Topic", img: "img/equipa/Tiago_Gonçalves.png" },
+            { nome: "André Farinha", cargo: "Topic", img: "img/equipa/Andre_Farinha.png" },
+            { nome: "Tiago Gonçalves", cargo: "Topic", img: "img/equipa/Tiago_Goncalves.png" },
             { nome: "Guilherme Ribeiro", cargo: "Topic", img: "img/equipa/Guilherme_Ribeiro.png" },
-            { nome: "Gonçalo Torres", cargo: "Topic", img: "img/equipa/Gonçalo_Torres.png" }
+            { nome: "Gonçalo Torres", cargo: "Topic", img: "img/equipa/Goncalo_Torres.png" },
+            { nome: "Sara Belo", cargo: "Topic", img: "img/equipa/Sara_Belo.png" },
+            { nome: "Rabia", cargo: "Topic", img: "img/equipa/Rabia.png" }
         ]
     }
 };
