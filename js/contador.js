@@ -41,6 +41,11 @@ var x = setInterval(function() {
     if (t < 0) {
         clearInterval(x);
         var contador = document.querySelector(".contador");
-        if (contador) contador.innerHTML = "EXPIRED";
+        if (contador) {
+            contador.innerHTML = "Fechadas";
+            contador.style.display = "flex";
+            contador.style.justifyContent = "center";
+            contador.style.alignItems = "center";
+        }
     }
 }, 1000);
